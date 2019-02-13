@@ -19,7 +19,6 @@ with open("test.csv") as file:
 
 file.close()
     
-
 graph = nx.DiGraph()
 
 for i in graphDict:  
